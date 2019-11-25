@@ -10,4 +10,4 @@ Any comments or PRs with better solutions are very welcome.
 Motivation behind this project is following:
 1. Become a better programmer, by solving more and more tricky problems from LeetCode
 2. Become a better writer, since I will practice a lot with putting my thoughts on "virtual" paper.
-3. Got to the top 1000 of leetcode programmers by participating at (leetcode contests)[https://leetcode.com/contest/]
+3. Got to the top 1000 of leetcode programmers by participating at [leetcode contests](https://leetcode.com/contest/)
