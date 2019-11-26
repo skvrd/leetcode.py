@@ -11,3 +11,4 @@ Motivation behind this project is following:
 1. Become a better programmer, by solving more and more tricky problems from LeetCode
 2. Become a better writer, since I will practice a lot with putting my thoughts on "virtual" paper.
 3. Get to the top 1000 of **Leetcode** programmers by participating at [**Leetcode** contests](https://leetcode.com/contest/)
+4. Make my GitHub more active.
