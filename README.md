@@ -5,7 +5,7 @@ Python solutions to **Leetcode** problems
 This project consists of __Leetcode__ problems I solved, with some of my thoughts around a solution.
 Any comments or PRs with better solutions are very welcome.
 
-## Structure
+## Structure 
 
 This repo has folder `problems`, which contains folders with IDs of problems from [**Leetcode**](https://leetcode.com/).
 Each folder contains `solution.py` file with actual solution to the problem and `.md` file with problem statement, link to the original problem and some of my thoughts on how to solve this problem.
