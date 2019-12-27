@@ -26,4 +26,4 @@ Explanation: Cheapest is start on cost[0], and only step on 1s, skipping cost[3]
 
 ## Thoughts
 
-Looks like a Dynamic programming problem. Now we need to 
+Looks like a Dynamic programming problem.
