@@ -9,14 +9,12 @@ class Solution:
     def checkEqualTree(self, root: 'TreeNode') -> bool:
         def helper(root: 'TreeNode') -> bool:
             if root is None:
-                return 0
+                return
             if root.left is None and root.right is None:
                 root.sum = root.val
-                return root.val
             left = helper(root.left)
             right = helper(root.right)
             root.sum = left + right + root.val
-            return root.sum
         def search(root: 'TreeNode', num: int) -> bool:
             if root is None:
                 return False
